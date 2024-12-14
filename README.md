@@ -12,7 +12,7 @@ This repository contains the Trentino Healthcare Knowledge Graph project, aimed 
 - Implementation of competency questions for Knowledge Graph evaluation and extension guidelines for future enhancements.
 
 ## Explore More
-- For a deeper understanding, view our [presentation](https://www.canva.com/design/DAFWE8f5d2A/QmWwIWmActfnpGtRf-wJlg/view).
+- For a deeper understanding, view our [presentation](https://www.canva.com/design/DAFWE8f5d2A/MjrKNLUr8noyUsUsTpWm-Q/edit?utm_content=DAFWE8f5d2A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Open Issues & Future Work
 This project sets the foundation for future expansions, including the integration of patient-practitioner relationships and addressing admission causes for more personalized healthcare access.
